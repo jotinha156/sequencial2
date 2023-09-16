@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1694900316 source:c:\codigos em c\teste\listasequencial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listasequencial.h"
+
+1694900209 c:\codigos em c\teste\listasequencial\listasequencial.h
+
+1694900420 source:c:\codigos em c\teste\listasequencial\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"listasequencial.h"
+
